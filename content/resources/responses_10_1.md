@@ -5,6 +5,7 @@ description: 'Sample student response to Question 10-1: How does the theme park 
   with permission.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/4-645-selected-topics-in-architecture-architecture-from-1750-to-the-present-fall-2004/cb6be2ef9b1d66d8d85221d2a5df22b5_responses_10_1.pdf
 file_type: application/pdf
+parent_uid: 9ae4868d-3b1e-b37d-c0bb-70b5beecefa8
 resourcetype: Document
 title: responses_10_1.pdf
 uid: cb6be2ef-9b1d-66d8-d852-21d2a5df22b5
